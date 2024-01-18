@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "id": 41,
+      "name": "ram",
+      "Age": "100",
+      "email": "ram@gmail.com",
+      "Mobile": "9888767787"
+    },
+    {
+      "name": "Gayathri",
+      "email": "gaythri@gmail.com",
+      "Mobile": 9888767876,
+      "Age": 6,
+      "id": 30
+    },
+    {
+      "id": 40,
+      "name": "sajida",
+      "Age": "288",
+      "email": "sajida@gmail.com",
+      "Mobile": "9888767876"
+    },
+    {
+      "name": "ram",
+      "Age": "34",
+      "email": "ram@gmail.com",
+      "Mobile": "9888765567",
+      "id": 47
+    },
+    {
+      "id": 48,
+      "name": "Ashajyothi ",
+      "Age": "13",
+      "email": "ashajyothi@gmail.com",
+      "Mobile": "9888765567"
+    },
+    {
+      "id": 51,
+      "name": "sravya",
+      "Age": "20",
+      "email": "sravya@gmail.com",
+      "Mobile": "9888765567"
+    }
+  ]
+}
